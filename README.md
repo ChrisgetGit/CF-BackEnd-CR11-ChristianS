@@ -42,7 +42,8 @@ Bonus points
     (10) Create a live search field that when you already type one letter in this field, it will search your database for  results (using Ajax). The search should look through the names of the animals. 
 
     (10) Create a superadmin session, where only the superadmin will be able to manipulate the users' data, e.g. edit and delete existing users (hint: users.php is only accessible to a super admin)
-normal admin: 
+
+Login:
 
        normal admin login:
        email: dattel@gmail.com
